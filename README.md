@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
 # About me
-🇧🇷 Brazilian
-😄 Pronouns: Ela / Ella / She / Her  
-⏳ 32 years old   
-👨‍🎓 Graduate in Chemical Engineering   
-📚 Student of Information Systems at the Federal University of Minas Gerais (2019-2023)  
-🔭 I’m currently working on Kyndryl
-🤩 I have a special interest in *Data Science* and *FrontEnd*!
+🇧🇷 Brazilian<br />
+😄 Pronouns: Ela / Ella / She / Her<br />
+⏳ 32 years old<br />
+👨‍🎓 Graduate in Chemical Engineering<br />
+📚 Student of Information Systems at the Federal University of Minas Gerais (2019-2023)<br />
+🔭 I’m currently working on Kyndryl<br />
+🤩 I have a special interest in ***Data Science*** and ***FrontEnd***!<br />
+
 ## Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,9 +37,9 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### Contact
-✉️ goncalves-ac@outlook.com
-✉️ acg.ufmg@gmail.com
-✉️ acg@ufmg.br
+✉️ goncalves-ac@outlook.com<br />
+✉️ acg.ufmg@gmail.com<br />
+✉️ acg@ufmg.br<br />
 
 ---
 ![Statistics](https://github-readme-stats.vercel.app/api?username=goncalves-ac&show_icons=true&theme=midnight-purple)
