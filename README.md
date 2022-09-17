@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **goncalves-ac/Goncalves-AC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/goncalves-ac">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=goncalves-ac&show_icons=true&theme=midnight-purple"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalves-ac&theme=midnight-purple"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=goncalves-ac&show_icons=true&theme=midnight-purple"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalves-ac&theme=midnight-purple"/>
 </div>
 
 <div align="center">
