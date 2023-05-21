@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Contact
-✉️ goncalves-ac@outlook.com<br />
+✉️ acgoncalves2@outlook.com<br />
 ✉️ acg.ufmg@gmail.com<br />
 ✉️ acg@ufmg.br<br />
 
