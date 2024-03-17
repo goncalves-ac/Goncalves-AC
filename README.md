@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🇧🇷 Brazilian<br />
 😄 Pronouns: Ela / Ella / She / Her<br />
 ⏳ 34 years old<br />
-👨‍🎓 Graduate in Chemical Engineering<br />
+👨‍🎓 Graduate in Chemical Engineering and Information System<br />
 📚 Student of Information Systems at the Federal University of Minas Gerais (2019-2023)<br />
 🔭 I’m currently working on Kyndryl<br />
 🤩 I have a special interest in ***Data Science*** and ***FrontEnd***!<br />
